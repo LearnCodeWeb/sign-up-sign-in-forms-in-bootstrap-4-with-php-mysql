@@ -1,0 +1,12 @@
+.overlay{
+	display:none;
+	width: 100%;
+    position: absolute;
+    top: 0px;
+    text-align: center;
+    background: rgba(0,0,0,0.9);
+    min-height: 100%;
+    z-index: 10;
+    border-radius: 5px;
+    padding: 15px;
+}
